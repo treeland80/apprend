@@ -1,7 +1,7 @@
 
 import os
 import json
-from core.brain import search_answer
+
 
 DOSSIER = "data"
 HISTORY_FILE = "memory/historique.json"
