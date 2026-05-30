@@ -1,0 +1,9 @@
+{
+  "user": "Yannick",
+  "interests": ["agriculture", "trading", "business"],
+  "last_topics": ["crypto", "garba express"],
+  "preferences": {
+    "language": "fr",
+    "style": "simple"
+  }
+}{"input": "culture", "response": "Selon agriculture.txt :\n\nle cacao est une culture rentable en côte d'ivoire.\nl'agriculture nécessite de la patience et de l'entretien...."}
